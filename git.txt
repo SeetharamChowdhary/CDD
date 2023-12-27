@@ -13,6 +13,8 @@ PUSHING A PROJECT INTO GITHUB
 
 -> esc : wq                   -> click esc button and type :wq to exit the editor 
 
+ git push -u origin main
+
 ->git remote add origin "copied link"(or) git remote add github "copied link"
 
 ->git push origin master (or) git push github master 
