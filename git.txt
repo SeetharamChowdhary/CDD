@@ -1,0 +1,36 @@
+PUSHING A PROJECT INTO GITHUB
+-> create a repositary in the github,copy the code given the repositary
+
+-> mkdir directory     ->creates a directory
+
+->move to   the working directory
+
+->git init->git add .         ->git commit -m "message"
+
+-> touch filename.ext         ->creates a file
+
+-> vi filename.ext            ->open a editor in terminal itself
+
+-> esc : wq                   -> click esc button and type :wq to exit the editor 
+
+->git remote add origin "copied link"(or) git remote add github "copied link"
+
+->git push origin master (or) git push github master 
+
+-------------------*************************--------------
+
+CREATING  a file in the github and pulling it into the local remote
+
+git pull origin master (or) git pull github master
+
+----------------------------*****************************---------------
+AFTER DOING SOME CHANGES TO A FILE PUSHING BACK TO THE GITHUB
+
+git add -A
+
+(it will show all the files which have inserted or deleted all logs)
+
+git commit -m "msg"
+
+git push --set-upstream origin master
+-----------------------------******************************-----------------------
