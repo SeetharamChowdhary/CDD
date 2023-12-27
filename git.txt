@@ -11,12 +11,7 @@ PUSHING A PROJECT INTO GITHUB
 
 -> vi filename.ext            ->open a editor in terminal itself
 
--> esc : wq                   -> click esc button and type :wq to exit the editor
-
--> git push -u origin main
-
-
- git push -u origin main
+-> esc : wq                   -> click esc button and type :wq to exit the editor 
 
 ->git remote add origin "copied link"(or) git remote add github "copied link"
 
@@ -38,4 +33,3 @@ git add -A
 git commit -m "msg"
 
 git push --set-upstream origin master
------------------------------******************************-----------------------
