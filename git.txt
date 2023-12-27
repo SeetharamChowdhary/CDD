@@ -11,7 +11,10 @@ PUSHING A PROJECT INTO GITHUB
 
 -> vi filename.ext            ->open a editor in terminal itself
 
--> esc : wq                   -> click esc button and type :wq to exit the editor 
+-> esc : wq                   -> click esc button and type :wq to exit the editor
+
+-> git push -u origin main
+
 
 ->git remote add origin "copied link"(or) git remote add github "copied link"
 
